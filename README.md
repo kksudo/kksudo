@@ -20,15 +20,3 @@ I design scalable cloud platforms, automate infrastructure, and teach engineers 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions)
-
----
-
-## 🎤 Speaking & Writing
-- DevOops Conference Speaker
-- Author at Medium / Dzone / Habr
-- IT Instructor at Otus
-
----
-
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/kazakovk)
