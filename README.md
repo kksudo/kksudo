@@ -1,12 +1,34 @@
- ### Hi there 👋
+# Hi, I'm Kirill 👋  
+### DevOps Automation Engineer | CKA | AWS | GKE
 
-<table border="0">
-  <tr>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api?username=kksudo&show_icons=true&hide_border=true&count_private=true">
-    </td>
-    <td>
-      <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kksudo&show_icons=true&hide_border=true&count_private=true&layout=compact">
-    </td>
-  </tr>
-</table>
+I design scalable cloud platforms, automate infrastructure, and teach engineers how to do the same.
+
+---
+
+## 🚀 What I Do
+- Kubernetes & Cloud Architecture
+- Infrastructure as Code (Terraform / Pulumi)
+- CI/CD Engineering
+- Platform Engineering
+- DevOps Education & Mentoring
+
+---
+
+## 🛠 Tech Stack
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions)
+
+---
+
+## 🎤 Speaking & Writing
+- DevOops Conference Speaker
+- Author at Medium / Dzone / Habr
+- IT Instructor at Otus
+
+---
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/kazakovk)
